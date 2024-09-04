@@ -37,4 +37,7 @@ page, paragraph, sentence, and token. Finally, it should be noted that most docu
 some amount of missing information (i.e. illegible words, unknown author/date, etc.), original 
 spelling mistakes, and a modernized spelling version.
 
-
+# Analysis Performed
+- Principal Component Analysis
+- Word Embeddings
+- Sentiment Analysis (Emotion throughout the War)
