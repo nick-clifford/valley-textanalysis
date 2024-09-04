@@ -1,0 +1,223 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="0.3539859660904019" totalTokens="38712" titles="write, home, time, letter, week, cousin, hear, love, day, give">
+	<word weight="0.017565612729902872" count="680">write</word>
+	<word weight="0.017565612729902872" count="680">home</word>
+	<word weight="0.014646621202727837" count="567">time</word>
+	<word weight="0.014000826617069643" count="542">letter</word>
+	<word weight="0.010823517255631328" count="419">week</word>
+	<word weight="0.01056519942136805" count="409">cousin</word>
+	<word weight="0.009015292415788386" count="349">hear</word>
+	<word weight="0.008756974581525108" count="339">love</word>
+	<word weight="0.008240338912998553" count="319">day</word>
+	<word weight="0.008033684645587931" count="311">give</word>
+	<phrase weight="0.0020927237604636186" count="13">great deal</phrase>
+	<phrase weight="0.0016097875080489374" count="10">give love</phrase>
+	<phrase weight="0.0014488087572440437" count="9">harpers ferry</phrase>
+	<phrase weight="0.00128783000643915" count="8">received letter</phrase>
+	<phrase weight="0.0011268512556342563" count="7">time write</phrase>
+	<phrase weight="9.658725048293626E-4" count="6">suppose heard</phrase>
+	<phrase weight="8.048937540244687E-4" count="5">yesterday afternoon</phrase>
+	<phrase weight="8.048937540244687E-4" count="5">love cousin</phrase>
+	<phrase weight="6.43915003219575E-4" count="4">anxious hear</phrase>
+	<phrase weight="6.43915003219575E-4" count="4">write anxious hear</phrase>
+  </topic>
+  <topic id="1" alpha="0.15296143092233494" totalTokens="12777" titles="regiment, company, colonel, general, virginia, captain, service, duty, days, order">
+	<word weight="0.013774751506613446" count="176">regiment</word>
+	<word weight="0.013774751506613446" count="176">company</word>
+	<word weight="0.013305157705251624" count="170">colonel</word>
+	<word weight="0.012052907568286765" count="154">general</word>
+	<word weight="0.008609219691633405" count="110">virginia</word>
+	<word weight="0.00829615715739219" count="106">captain</word>
+	<word weight="0.007591766455349456" count="97">service</word>
+	<word weight="0.007435235188228848" count="95">duty</word>
+	<word weight="0.007200438287547938" count="92">days</word>
+	<word weight="0.006887375753306723" count="88">order</word>
+	<phrase weight="0.0025364616360177552" count="4">medical director</phrase>
+	<phrase weight="0.0025364616360177552" count="4">county virginia</phrase>
+	<phrase weight="0.0025364616360177552" count="4">mustered service</phrase>
+	<phrase weight="0.0019023462270133164" count="3">leave absence</phrase>
+	<phrase weight="0.0019023462270133164" count="3">bearing date</phrase>
+	<phrase weight="0.0019023462270133164" count="3">drp shoemaker</phrase>
+	<phrase weight="0.0012682308180088776" count="2">captain lieutenants private</phrase>
+	<phrase weight="0.0012682308180088776" count="2">occasion arrest colonel baker</phrase>
+	<phrase weight="0.0012682308180088776" count="2">released parole</phrase>
+	<phrase weight="0.0012682308180088776" count="2">statement facts</phrase>
+  </topic>
+  <topic id="2" alpha="0.2755703894452455" totalTokens="36453" titles="dear, time, friend, hope, god, letter, long, good, feel, make">
+	<word weight="0.012262365237429018" count="447">dear</word>
+	<word weight="0.00935451128850849" count="341">time</word>
+	<word weight="0.008915589937728034" count="325">friend</word>
+	<word weight="0.008860724768880477" count="323">hope</word>
+	<word weight="0.008504101171371355" count="310">god</word>
+	<word weight="0.007873151729624448" count="287">letter</word>
+	<word weight="0.0074067977944202125" count="270">long</word>
+	<word weight="0.006858146105944641" count="250">good</word>
+	<word weight="0.006611252846130634" count="241">feel</word>
+	<word weight="0.0058705730666886126" count="214">make</word>
+	<phrase weight="0.0031277150304083404" count="18">dear friend</phrase>
+	<phrase weight="0.0010425716768027802" count="6">dear kate</phrase>
+	<phrase weight="8.688097306689834E-4" count="5">days ago</phrase>
+	<phrase weight="8.688097306689834E-4" count="5">received letter</phrase>
+	<phrase weight="6.950477845351868E-4" count="4">dear annie</phrase>
+	<phrase weight="6.950477845351868E-4" count="4">prayer meeting</phrase>
+	<phrase weight="6.950477845351868E-4" count="4">long interesting</phrase>
+	<phrase weight="6.950477845351868E-4" count="4">dear brother</phrase>
+	<phrase weight="6.950477845351868E-4" count="4">poor fellow</phrase>
+	<phrase weight="6.950477845351868E-4" count="4">remember kindly</phrase>
+  </topic>
+  <topic id="3" alpha="0.20457069957625937" totalTokens="19615" titles="money, pay, business, andc, family, make, send, john, house, property">
+	<word weight="0.012490440989039" count="245">money</word>
+	<word weight="0.010400203925567168" count="204">pay</word>
+	<word weight="0.008972724955391281" count="176">business</word>
+	<word weight="0.008157022686719348" count="160">andc</word>
+	<word weight="0.00774917155238338" count="152">family</word>
+	<word weight="0.0074432832016314045" count="146">make</word>
+	<word weight="0.007137394850879429" count="140">send</word>
+	<word weight="0.006984450675503441" count="137">john</word>
+	<word weight="0.006780525108335458" count="133">house</word>
+	<word weight="0.006321692582207494" count="124">property</word>
+	<phrase weight="0.0024171270718232043" count="7">dear sir</phrase>
+	<phrase weight="0.0013812154696132596" count="4">john quincy adams nadenbousch</phrase>
+	<phrase weight="0.0010359116022099447" count="3">sorely tired</phrase>
+	<phrase weight="0.0010359116022099447" count="3">andc andc</phrase>
+	<phrase weight="0.0010359116022099447" count="3">hose fire insurance</phrase>
+	<phrase weight="0.0010359116022099447" count="3">duly hand</phrase>
+	<phrase weight="0.0010359116022099447" count="3">remember kindly</phrase>
+	<phrase weight="6.906077348066298E-4" count="2">rail road</phrase>
+	<phrase weight="6.906077348066298E-4" count="2">exceedingly anxious</phrase>
+	<phrase weight="6.906077348066298E-4" count="2">hundred dollars</phrase>
+  </topic>
+  <topic id="4" alpha="0.44270814957106863" totalTokens="45646" titles="glad hear, letter, write, time, home, hope, good, dear, present, send">
+	<word weight="0.025632037856548218" count="1170">letter</word>
+	<word weight="0.024558559348026116" count="1121">write</word>
+	<word weight="0.02330981904219428" count="1064">time</word>
+	<word weight="0.017613810629628007" count="804">home</word>
+	<word weight="0.015028699119309468" count="686">hope</word>
+	<word weight="0.014086666958769662" count="643">good</word>
+	<word weight="0.012684572580291811" count="579">dear</word>
+	<word weight="0.011611094071769705" count="530">present</word>
+	<word weight="0.01152346317311484" count="526">hear</word>
+	<word weight="0.010559523287911318" count="482">send</word>
+	<phrase weight="0.0031032954041672824" count="21">glad hear</phrase>
+	<phrase weight="0.0017733116595241613" count="12">received letter</phrase>
+	<phrase weight="0.0013299837446431211" count="9">dear brother</phrase>
+	<phrase weight="0.0011822077730161075" count="8">south carolina</phrase>
+	<phrase weight="0.0011822077730161075" count="8">inquiring friends</phrase>
+	<phrase weight="0.0011822077730161075" count="8">write lines</phrase>
+	<phrase weight="0.0010344318013890941" count="7">direct letter</phrase>
+	<phrase weight="0.0010344318013890941" count="7">time write</phrase>
+	<phrase weight="8.866558297620806E-4" count="6">days ago</phrase>
+	<phrase weight="8.866558297620806E-4" count="6">give respects</phrase>
+  </topic>
+  <topic id="5" alpha="0.1513632756375799" totalTokens="19690" titles="state, man, party, people, union, made, county, men, cameron, sir">
+	<word weight="0.009903504316912138" count="195">state</word>
+	<word weight="0.006602336211274758" count="130">man</word>
+	<word weight="0.006602336211274758" count="130">party</word>
+	<word weight="0.006297613001523616" count="124">people</word>
+	<word weight="0.006246825799898425" count="123">union</word>
+	<word weight="0.0059928897917724735" count="118">made</word>
+	<word weight="0.005891315388522092" count="116">county</word>
+	<word weight="0.005840528186896902" count="115">men</word>
+	<word weight="0.005789740985271711" count="114">cameron</word>
+	<word weight="0.0056373793803961405" count="111">sir</word>
+	<phrase weight="0.005170630816959669" count="15">simon cameron</phrase>
+	<phrase weight="0.0013788348845225785" count="4">united states</phrase>
+	<phrase weight="0.001034126163391934" count="3">governor curtin</phrase>
+	<phrase weight="0.001034126163391934" count="3">north carolina</phrase>
+	<phrase weight="0.001034126163391934" count="3">chambersburg pennsylvania</phrase>
+	<phrase weight="0.001034126163391934" count="3">south carolina</phrase>
+	<phrase weight="6.894174422612892E-4" count="2">dear sir</phrase>
+	<phrase weight="6.894174422612892E-4" count="2">unanimous vote</phrase>
+	<phrase weight="6.894174422612892E-4" count="2">edward mcpherson</phrase>
+	<phrase weight="6.894174422612892E-4" count="2">southern confederacy</phrase>
+  </topic>
+  <topic id="6" alpha="0.10182430380743596" totalTokens="13316" titles="school, people, house, colored, work, schools, night, teachers, church, ">
+	<word weight="0.036121958546109945" count="481">school</word>
+	<word weight="0.015995794532892762" count="213">people</word>
+	<word weight="0.011790327425653349" count="157">house</word>
+	<word weight="0.011189546410333434" count="149">colored</word>
+	<word weight="0.009387203364373686" count="125">work</word>
+	<word weight="0.009011715229798739" count="120">schools</word>
+	<word weight="0.00878642234905377" count="117">night</word>
+	<word weight="0.008335836587563834" count="111">teachers</word>
+	<word weight="0.008110543706818865" count="108">teacher</word>
+	<word weight="0.007659957945328927" count="102">church</word>
+	<phrase weight="0.003181336161187699" count="6">colored people</phrase>
+	<phrase weight="0.0015906680805938495" count="3">miss dewey</phrase>
+	<phrase weight="0.0010604453870625664" count="2">excellent teacher</phrase>
+	<phrase weight="0.0010604453870625664" count="2">miss burke</phrase>
+	<phrase weight="0.0010604453870625664" count="2">night school</phrase>
+	<phrase weight="0.0010604453870625664" count="2">sabbath school</phrase>
+	<phrase weight="0.0010604453870625664" count="2">teaching school</phrase>
+	<phrase weight="0.0010604453870625664" count="2">vacation week</phrase>
+	<phrase weight="0.0010604453870625664" count="2">john scott</phrase>
+	<phrase weight="0.0010604453870625664" count="2">build church</phrase>
+  </topic>
+  <topic id="7" alpha="0.24368803493751043" totalTokens="32795" titles="good, send, write, home, gen, today, andc, hope, days, ">
+	<word weight="0.01905778319865833" count="625">good</word>
+	<word weight="0.015703613355694465" count="515">send</word>
+	<word weight="0.013599634090562586" count="446">write</word>
+	<word weight="0.012257966153377039" count="402">home</word>
+	<word weight="0.010001524622655893" count="328">gen</word>
+	<word weight="0.0086903491385882" count="285">today</word>
+	<word weight="0.008659856685470346" count="284">andc</word>
+	<word weight="0.008354932154291813" count="274">hope</word>
+	<word weight="0.007653605732581186" count="251">days</word>
+	<word weight="0.00722671138893124" count="237">day</word>
+	<phrase weight="0.002345124096150088" count="12">gen lee</phrase>
+	<phrase weight="0.0021496970881375805" count="11">gen jackson</phrase>
+	<phrase weight="0.0021496970881375805" count="11">good bye</phrase>
+	<phrase weight="0.0021496970881375805" count="11">dear wife</phrase>
+	<phrase weight="0.0017588430721125659" count="9">andc andc</phrase>
+	<phrase weight="0.0017588430721125659" count="9">god bless</phrase>
+	<phrase weight="0.0015634160641000586" count="8">days ago</phrase>
+	<phrase weight="9.771350400625367E-4" count="5">corps army northern</phrase>
+	<phrase weight="7.817080320500293E-4" count="4">swope depot</phrase>
+	<phrase weight="7.817080320500293E-4" count="4">capt lilley</phrase>
+  </topic>
+  <topic id="8" alpha="0.26063078135866735" totalTokens="39958" titles="men, enemy, miles, back, wounded, fight, river, left, battle, killed">
+	<word weight="0.01626708043445618" count="650">men</word>
+	<word weight="0.013263927123479654" count="530">enemy</word>
+	<word weight="0.011336903748936384" count="453">miles</word>
+	<word weight="0.01126182491616197" count="450">back</word>
+	<word weight="0.009535011762350469" count="381">wounded</word>
+	<word weight="0.008859302267380749" count="354">fight</word>
+	<word weight="0.008809249712197808" count="352">river</word>
+	<word weight="0.00863406576905751" count="345">left</word>
+	<word weight="0.008358776715551328" count="334">battle</word>
+	<word weight="0.008208619050002502" count="328">killed</word>
+	<phrase weight="0.0015513496742165685" count="10">killed wounded</phrase>
+	<phrase weight="7.756748371082842E-4" count="5">gen jackson</phrase>
+	<phrase weight="7.756748371082842E-4" count="5">distance miles</phrase>
+	<phrase weight="6.205398696866273E-4" count="4">pieces artillery</phrase>
+	<phrase weight="6.205398696866273E-4" count="4">fell back</phrase>
+	<phrase weight="6.205398696866273E-4" count="4">fall back</phrase>
+	<phrase weight="6.205398696866273E-4" count="4">great deal</phrase>
+	<phrase weight="6.205398696866273E-4" count="4">general lee</phrase>
+	<phrase weight="6.205398696866273E-4" count="4">battle field</phrase>
+	<phrase weight="4.654049022649705E-4" count="3">flag truce</phrase>
+  </topic>
+  <topic id="9" alpha="0.1415323791493098" totalTokens="18522" titles="love, dear, heart, home, happy, letter, long, send, time, saturday">
+	<word weight="0.07634164777021919" count="1414">love</word>
+	<word weight="0.02791275240254832" count="517">dear</word>
+	<word weight="0.024619371558147068" count="456">heart</word>
+	<word weight="0.015549076773566569" count="288">home</word>
+	<word weight="0.014901198574667962" count="276">happy</word>
+	<word weight="0.014631249325126876" count="271">letter</word>
+	<word weight="0.01182377712989958" count="219">long</word>
+	<word weight="0.011715797430083144" count="217">send</word>
+	<word weight="0.011445848180542059" count="212">time</word>
+	<word weight="0.011337868480725623" count="210">saturday</word>
+	<phrase weight="0.005693581780538302" count="11">give love</phrase>
+	<phrase weight="0.0036231884057971015" count="7">lombardy grove</phrase>
+	<phrase weight="0.002587991718426501" count="5">god bless</phrase>
+	<phrase weight="0.0015527950310559005" count="3">dear dear</phrase>
+	<phrase weight="0.0015527950310559005" count="3">sends love</phrase>
+	<phrase weight="0.0015527950310559005" count="3">send love</phrase>
+	<phrase weight="0.0015527950310559005" count="3">love kiss</phrase>
+	<phrase weight="0.0015527950310559005" count="3">sibert dear</phrase>
+	<phrase weight="0.0015527950310559005" count="3">evans dear</phrase>
+	<phrase weight="0.0015527950310559005" count="3">richmond dear</phrase>
+  </topic>
+</topics>

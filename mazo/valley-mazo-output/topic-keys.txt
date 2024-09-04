@@ -1,0 +1,10 @@
+0	0.35399	write home time letter week cousin hear love day give 
+1	0.15296	regiment company colonel general virginia captain service duty days order 
+2	0.27557	dear time friend hope god letter long good feel make 
+3	0.20457	money pay business andc family make send john house property 
+4	0.44271	letter write time home hope good dear present hear send 
+5	0.15136	state man party people union made county men cameron sir 
+6	0.10182	school people house colored work schools night teachers teacher church 
+7	0.24369	good send write home gen today andc hope days day 
+8	0.26063	men enemy miles back wounded fight river left battle killed 
+9	0.14153	love dear heart home happy letter long send time saturday 
