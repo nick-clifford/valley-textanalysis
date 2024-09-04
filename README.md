@@ -4,7 +4,7 @@ __Provenance:__
 	The following data files come from the Valley of the Shadow digital archive as part of the Virginia Center for Digital History at the University of Virginia. Valley of the Shadow makes the site freely available for non-commercial uses in research, teaching, scholarship, and private study. Site users are responsible for any uses they make of materials on the site. Textual data was scraped from the site and cleaned to produce the files.
 
 __Location:__
-	https://virginia.box.com/s/aqbfzhnd1u8rsx1jefu707g88yrj1az1
+	https://valley.lib.virginia.edu/VoS/usingvalley/valleyguide.html
 
 __Description:__ 
 	The archive includes primary sources that describe the lives of people living in Augusta County, VA, and Franklin County, Pennsylvania, before, during, and after the American Civil War. The data used for this project includes only the letters and diary passages from the archive.
